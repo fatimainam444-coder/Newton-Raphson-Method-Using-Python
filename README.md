@@ -159,12 +159,4 @@ Tested with Python 3.12.3, NumPy 2.4.4, Pandas 3.0.2, Matplotlib 3.10.8 and SymP
 - McKinney, W. (2010). Data structures for statistical computing in Python. *Proceedings of the 9th Python in Science Conference*, 56–61. https://doi.org/10.25080/Majora-92bf1922-00a
 - Meurer, A., et al. (2017). SymPy: Symbolic computing in Python. *PeerJ Computer Science, 3*, e103. https://doi.org/10.7717/peerj-cs.103
 
----
 
-## Author
-
-[Your Name] – [Your University], [Year]
-
-## License
-
-Add a license of your choice (for example MIT) or remove this section.
